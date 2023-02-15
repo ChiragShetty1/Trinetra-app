@@ -405,9 +405,9 @@ public abstract class CameraActivity extends Activity
 
 
                 if (start > letStart && end < leftFinish) {
-                    stringBuilder.append(" on the left ");
-                } else if (start > rightStart && end < rightFinish) {
                     stringBuilder.append(" on the right ");
+                } else if (start > rightStart && end < rightFinish) {
+                    stringBuilder.append(" on the left ");
                 } else {
                     stringBuilder.append(" in front of you ");
                 }

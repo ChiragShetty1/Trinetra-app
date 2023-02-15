@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Trineatr</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="emergency_call">Emergency call</string>
+    <string name="camera">Camera</string>
+    <string name="visionxt">Visionxt</string>
+    <string name="team_members">Team Members:</string>
+    <string name="ruvef">1. Kazi Ruvef Ahmed</string>
+    <string name="ruvef_usn">4DM18CS018</string>
+    <string name="faizan">2. Mohommad faizan</string>
+    <string name="faizan_usn">4DM18CS023</string>
+    <string name="chirag">3. Chirag Shetty</string>
+    <string name="chirag_usn">4DM18CS013</string>
+    <string name="enter_no">Enter a number</string>
 </resources>
